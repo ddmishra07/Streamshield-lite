@@ -4,7 +4,7 @@ An end-to-end **OTT piracy monitoring pipeline + dashboard**: automated data ing
 
 > **Note:** This is a portfolio project inspired by real-world piracy-investigation workflows. It runs entirely on **synthetic data** (fake teams, matches, domains and URLs). No real or confidential data is used.
 
-![Daily detections](docs/images/daily_detections.png)
+
 
 ## The problem
 During live sports matches, investigation teams must track thousands of pirate streaming URLs. Raw URL lists are messy (duplicates, tracking parameters, malformed links), so analysts waste time on bad data and lack visibility into takedown progress and repeat offenders.
@@ -53,8 +53,7 @@ From 13,200 raw rows → **11,807 clean rows** (10.5% removed):
 - Piracy is highly concentrated: the top offender domain alone accounts for **1,360 cases** (about 11.5% of all cases) and appeared in every monitored match.
 - 22 domains fall in the **High** risk band, and they should get investigator attention first.
 
-![Platform takedown rate](docs/images/platform_takedown_rate.png)
-![Top offenders](docs/images/top_offenders.png)
+
 
 ## Risk score
 ```

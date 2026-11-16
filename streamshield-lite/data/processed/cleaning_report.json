@@ -1,0 +1,11 @@
+{
+  "input_rows": 13200,
+  "invalid_urls_dropped": 264,
+  "bad_timestamp_dropped": 65,
+  "unknown_status_set_pending": 0,
+  "missing_platform_filled": 127,
+  "status_fixed_missing_takedown_time": 0,
+  "duplicates_removed": 1064,
+  "output_rows": 11807,
+  "rows_removed_pct": 10.55
+}

@@ -1,0 +1,11 @@
+{
+  "total_cases": 11807,
+  "unique_domains": 400,
+  "matches_monitored": 45,
+  "taken_down": 7600,
+  "reported": 2542,
+  "pending": 1665,
+  "takedown_rate_pct": 64.4,
+  "avg_hours_to_takedown": 14.6,
+  "median_hours_to_takedown": 10.0
+}

@@ -1,0 +1,7 @@
+platform,cases,taken_down,avg_hours_to_takedown,takedown_rate_pct
+Streaming Website,4708,2536,21.4,53.9
+Messaging Channel,2379,1540,9.6,64.7
+Social Video Platform,2337,2081,3.7,89.0
+File Hosting,1141,881,14.3,77.2
+Mobile App,1121,485,42.9,43.3
+Unknown,121,77,15.7,63.6

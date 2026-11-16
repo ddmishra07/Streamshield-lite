@@ -2,9 +2,6 @@
 
 An end-to-end **OTT piracy monitoring pipeline + dashboard**: automated data ingestion, URL cleaning and validation, KPI reporting, repeat-offender risk scoring, and an interactive Streamlit dashboard (with a Power BI build guide).
 
-> **Note:** This is a portfolio project inspired by real-world piracy-investigation workflows. It runs entirely on **synthetic data** (fake teams, matches, domains and URLs). No real or confidential data is used.
-
-
 
 ## The problem
 During live sports matches, investigation teams must track thousands of pirate streaming URLs. Raw URL lists are messy (duplicates, tracking parameters, malformed links), so analysts waste time on bad data and lack visibility into takedown progress and repeat offenders.
